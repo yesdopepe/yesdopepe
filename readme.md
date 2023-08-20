@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma,nodejs" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,json" height="40" alt="figma logo"  />
 </div>
 
 ###
