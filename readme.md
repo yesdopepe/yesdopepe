@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,supabase,react,figma,nodejs,c,cpp" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,supabase,react,figma,nodejs,c,cpp,dart" height="40" alt="figma logo"  />
 
 </div>
 
