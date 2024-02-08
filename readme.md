@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m working as an english teacher<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I go to the gym</p>
+<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m looking for a job as a front end developer (contact me anywhere, check my linktree)<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I go to the gym</p>
 
 ###
 
