@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m looking for a job as a front end developer (contact me anywhere, check my linktree)<br>- 📚 I'm currently learning about AI and machine learning<br>- ⚡ In my free time I go to the gym</p>
+<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m looking for a job as a Fullstack developer or machine learning architect (contact me anywhere, check my linktree)<br>- 📚 I'm currently learning about AI and machine learning<br>- ⚡ In my free time I go to the gym</p>
 
 ###
 
