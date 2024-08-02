@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m working as a fullstack engineer at gherbtna group<br>- 📚 I'm currently learning about LLMs<br>- ⚡ In my free time I go to the gym</p>
+<p align="left">I'm currently studying AI and data engineering<br><br>- 🔭 I’m working as a fullstack engineer at gherbtna group<br>- 📚 I'm currently learning about LLMs<br>- ⚡ In my free time I go to the gym and play Counter Strike</p>
 
 ###
 
